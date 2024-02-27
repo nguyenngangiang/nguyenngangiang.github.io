@@ -1,0 +1,10 @@
+[book]
+title = "Example book"
+authors = ["Hai Nghia"]
+description = "The example book covers examples."
+language = "en"
+multilingual = true
+src = "src"
+
+[rust]
+edition = "2021"
