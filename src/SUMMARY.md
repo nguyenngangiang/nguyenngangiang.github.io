@@ -11,5 +11,3 @@
 - [Giới thiệu ngành nghề](viec-lam/bai_viet_gioi_thieu_nganh_nghe.md)
 
 # Việc làm
-
-- Vũng tàu
