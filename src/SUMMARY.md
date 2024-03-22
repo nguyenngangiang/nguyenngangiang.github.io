@@ -7,5 +7,7 @@
 
 # Các bài báo của tôi
 
-- [Việc làm](viec_lam/viec-lam.md)
-- [Windonws](command/windows/power_shell.md)
+- [Bài viết đi báo](bai-viet-di-bao/news.md)
+- [Giới thiệu ngành nghề](viec-lam/bai_viet_gioi_thieu_nganh_nghe.md)
+
+# Phân tích từ khoá
