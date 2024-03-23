@@ -8,6 +8,7 @@
 # Các bài báo của tôi
 
 - [Bài viết đi báo](bai-viet-di-bao/news.md)
+- [Vì sao Thời tiết tại Đà Nẵng luôn thuận tiện cho việc đi phỏng vấn của bạn](bai-viet-di-bao/vi-sao-thoi-tiet-tai-da-nang-luon-thuan-tien-cho-viec-di-phong-van-cua-ban.md)
 
 # Bài viết top Google Search
 
