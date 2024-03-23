@@ -8,6 +8,9 @@
 # Các bài báo của tôi
 
 - [Bài viết đi báo](bai-viet-di-bao/news.md)
-- [Giới thiệu ngành nghề](viec-lam/bai_viet_gioi_thieu_nganh_nghe.md)
 
-# Việc làm
+# Bài viết top Google Search
+
+- [Content moderation](google/content-moderation.md)
+- [Ghostwriter](google/ghostwriter.md)
+- [Kỹ năng chuyên môn](google/ky-nang-chuyen-mon.md)
