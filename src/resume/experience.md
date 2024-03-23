@@ -4,19 +4,22 @@
 
 ## Sale & Content Creditor
 
-#### Giới thiệu sách cho khách hàng có nhu cầu tìm hiểu, phụ trách bán lẻ tại cửa hàng
+### Kinh doanh
 
-- Kiểm tra và làm chứng từ nhập, xuất hàng hóa ra, vào kho
-- Thiết kế nội dung thông tin trong Thư Giới Thiệu sách mới theo yêu cầu từ phòng kinh doanh phù hợp với khu vực chi
+- Giới thiệu sách cho khách hàng có nhu cầu tìm hiểu, phụ trách bán lẻ tại cửa hàng
   nhánh quản lý và gửi Email làm việc cho khách hàng
 - Thực hiện các báo cáo nhập xuất, báo cáo doanh số theo yêu cầu của Trưởng chi nhánh và phòng kinh doanh
+- Kiểm tra và làm chứng từ nhập, xuất hàng hóa ra, vào kho
+
+### Marketing
+
+- Thiết kế nội dung thông tin trong Thư Giới Thiệu sách mới theo yêu cầu từ phòng kinh doanh phù hợp với khu vực chi
 - Chịu trách nhiệm xây dựng và quản trị nội dung trang fanpage của chi nhánh: đưa tin về các chương trình khuyến mãi,
   review sách, đưa tin các hoạt động diễn ra của chi nhánh
 - Thực hiện các công việc truyền thông, marketing của chi nhánh:
-
-#### Tham gia tổ chức và thực hiện các hoạt động quảng bá cho chương trình giới thiệu sách mới của tác giả Dona Đỗ Ngọc - Chuyến Xe Đàn Bà
-
-#### Tham gia tổ chức gian hàng tại Hội Sách thường niên của thành phố.
+    - Tham gia tổ chức và thực hiện các hoạt động quảng bá cho chương trình giới thiệu sách mới của tác giả Dona Đỗ
+      Ngọc - Chuyến Xe Đàn Bà
+    - Tham gia tổ chức gian hàng tại Hội Sách thường niên của thành phố.
 
 ----
 

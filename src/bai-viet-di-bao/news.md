@@ -6,14 +6,6 @@
 > nghiệp hiện nay. Trong bối cảnh dịch bệnh và nhiều vấn đề xã hội khác vẫn đang tác động mạnh mẽ đến nền kinh tế.
 ![img.png](img.png)
 
-## baotintuc.vn
-
-#### [Những ngành nghề bị ảnh hưởng, giảm lao động](https://baotintuc.vn/xa-hoi/nhung-nganh-nghe-bi-anh-huong-giam-lao-dong-20230721154026969.htm)
-
-> Theo dự báo trong Bản tin thị trường lao động (Bộ Lao động, Thương binh và Xã hội), quý III/2023, một số ngành giảm
-> nhiều việc làm gồm: Sản xuất trang phục, nông nghiệp và hoạt động dịch vụ, bán lẻ.
-![img_1.png](img_1.png)
-
 ## plo.vn
 
 #### [Vieclamdanang.vn với công nghệ mới giúp người dùng tìm việc mọi lúc mọi nơi](https://plo.vn/vieclamdanangvn-voi-cong-nghe-moi-giup-nguoi-dung-tim-viec-moi-luc-moi-noi-post745958.html)
