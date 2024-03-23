@@ -23,3 +23,11 @@
 > Freelance sẽ là hướng đi đầy triển vọng cho người lao động bắt kịp những biến động từ xu hướng tuyển dụng của doanh
 > nghiệp hiện nay. Trong bối cảnh dịch bệnh và nhiều vấn đề xã hội khác vẫn đang tác động mạnh mẽ đến nền kinh tế.
 ![img_5.png](img_5.png)
+
+## baodanang.vn
+
+#### [Thích ứng tình hình mới trong bối cảnh chuyển đổi phương thức tuyển dụng của thị trường](https://baodanang.vn/can-biet/202208/thich-ung-tinh-hinh-moi-trong-boi-canh-chuyen-doi-phuong-thuc-tuyen-dung-cua-thi-truong-3919919/)
+
+> Người lao động tìm đến các công cụ online để tìm kiếm các cơ hội việc làm. Là giải pháp tối ưu giúp ứng viên thích ứng
+> nhanh chóng với tình hình mới và sự chuyển động theo xu hướng mới của thị trường lao động.
+![img_6.png](img_6.png)
