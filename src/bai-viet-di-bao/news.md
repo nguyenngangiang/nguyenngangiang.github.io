@@ -23,3 +23,13 @@
 > Người lao động tìm đến các công cụ online để tìm kiếm các cơ hội việc làm. Là giải pháp tối ưu giúp ứng viên thích ứng
 > nhanh chóng với tình hình mới và sự chuyển động theo xu hướng mới của thị trường lao động.
 ![img_6.png](img_6.png)
+
+## vietbao.vn
+
+#### [CEO Trần Thị Trang: Hành trình xây dựng vieclamhanoi.vn tỏa sáng trong lĩnh vực tuyển dụng online](https://vietbao.vn/ceo-tran-thi-trang-hanh-trinh-xay-dung-vieclamhanoi-vn-toa-sang-trong-linh-vuc-tuyen-dung-online-437996.html)
+
+> Dấn thân vào lĩnh vực công nghệ với việc vận hành và phát triển sàn giao dịch tuyển dụng việc làm tại Hà Nội theo mô
+> hình trực tuyến trên không gian mạng. Vốn được xem là vũ đài của “nam giới” trong khi chỉ là “tay mơ” trong ngành, CEO
+> Trần Thị Trang - Giám đốc Công ty Cổ phần JOBKEY tại Hà Nội đã thành công với hành trình xây dựng thương hiệu
+> vieclamhanoi.vn.
+![img_7.png](img_7.png)
